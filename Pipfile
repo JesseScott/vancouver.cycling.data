@@ -9,6 +9,9 @@ verify_ssl = true
 requests = "*"
 pandas = "*"
 tabula = "*"
+jupyter = "*"
+matplotlib = "*"
+tabula-py = "*"
 
 [requires]
 python_version = "3.7"
